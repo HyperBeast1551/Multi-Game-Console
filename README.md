@@ -41,6 +41,19 @@ This is a **multi-game console** powered by an Arduino Uno, featuring multiple c
 
 ---
 
+## 🪢 Circuit Wiring
+
+| Components |              Pins                 |
+|----------|-------------------------------------|
+| BTN1     | 2                                   |
+| BTN2     | 3                                   |
+| BTN3     | 4                                   |
+| BTN4     | 5                                   |
+| lcd(SDA) | A4                                  |
+| lcd(SCL) | A5                                  | 
+
+---
+
 ## 🚦 Games Currently Included
 
 1. **Reaction Time Game**  
